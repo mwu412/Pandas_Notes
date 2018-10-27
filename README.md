@@ -1,2 +1,2 @@
-# Pandas_notes
+# Pandas_Notes
 Learning notes for Pandas 
