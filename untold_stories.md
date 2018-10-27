@@ -25,4 +25,4 @@ Therefore, we must assign it to a new one:
 
 Python lists are mutable.
 
-The one line `list_a.extend([1, 2, 3])` will modify the python list `list_a`)
+The one line `list_a.extend([1, 2, 3])` will modify the python list `list_a`
